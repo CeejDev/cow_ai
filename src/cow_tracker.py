@@ -50,10 +50,10 @@ cv2.resizeWindow(window_name, width, height)
 # ============================================================
 frame_id = 0
 # Define specific pixel offsets for more control
-TOP_OFFSET = 60   # Increase this to move the box higher
-LEFT_OFFSET = 60  # Increase this to move the box further left
-BOTTOM_OFFSET = 20
-RIGHT_OFFSET = 20
+TOP_OFFSET = 30   # Increase this to move the box higher
+LEFT_OFFSET = 20  # Increase this to move the box further left
+BOTTOM_OFFSET = 15
+RIGHT_OFFSET = 15
 
 print("🚀 Processing started...")
 
